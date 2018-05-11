@@ -1,0 +1,5 @@
+name,birthYear,gender,height,mass,eyeColor,hairColor,skinColor
+Luke Skywalker,19BBY,Male,1.72 m,77 Kg,Blue,Blond,Caucasian
+R2-D2,112BBY,n/a,167,75,yellow,n/a,gold
+C-3PO,33BBY,n/a,"96,32",red,n/a,white,blue
+Darth Vader,41.9BBY,male,202,136,red,none,white
